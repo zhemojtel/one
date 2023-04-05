@@ -1,3 +1,2 @@
 logs/*.log
-!logs/semple.log
-testt.html
+!logs/new_log.log
